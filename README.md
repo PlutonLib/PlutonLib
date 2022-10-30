@@ -1,12 +1,5 @@
 
 ## Hi Dear Samurai, 
-
-
-
-                                     Żarłoczny, pasożytniczy wrzód na dupie społeczeństwa ludu pracującego
-
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/meow.png" /></p>
 <br/><br/>
 
