@@ -2,7 +2,6 @@
 ## Hi Dear Samurai, 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/profile.gif" width=400>
   <br><br>
   <samp>
     I'm Pluton. I am currently student in University of the Gazi. Coding C++, C# and Java for now. Learning Network and Forensic IT. I am a Turkish Translator at Hypixel. <a href="https://hypixel.net/"> Hypixel </a>. My Crowdin account <a href="https://crowdin.com/profile/PlutonLib-"> Crowdin PlutonLib Profile.
@@ -15,13 +14,20 @@
 <br/><br/>
 
 ### What i know?:  :rocket:
-|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/csharp.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/c.webp" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/php.svg" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/java.png" width=60> |
+|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/cpp.png" width=60> | 
+<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/csharp.png" width=60> | 
+<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/c.webp" width=60> | 
+<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | 
+<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/php.svg" width=60> | 
+<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/java.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 ### Tools: :hammer:
-|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/vs.png" width=60> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/b4d5a3be04c99ec0a309ac9e0d0b21207c237c7d/images/svg/visualstudiocode.svg" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | <img
-src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" width=60> |
+|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/vs.png" width=60> | 
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/b4d5a3be04c99ec0a309ac9e0d0b21207c237c7d/images/svg/visualstudiocode.svg" width=60> | 
+<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | 
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" width=60> |
 |:---:|:---:|:---:|:---:|
 
 ### Contacts: :penguin:
