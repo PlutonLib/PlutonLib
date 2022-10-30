@@ -37,10 +37,10 @@
   <img align="left" alt="PlütonLib Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/@PlütonLib">
-  <img align="left" alt="PlütonLib YouTube" width="21px" src="[https://raw.githubusercontent.com/plutonlib/plutonlib/main/img/yt.png](https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/youtube.svg)" />
+  <img align="left" alt="PlütonLib YouTube" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/youtube.svg" />
 </a>
 <a href="https://discord.gg/F5BkwBSJXh">
-  <img align="left" alt="PlütonLib Discord" width="21px" src="[https://raw.githubusercontent.com/plutonlib/plutonlib/main/img/dc.png](https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/discord.svg)" />
+  <img align="left" alt="PlütonLib Discord" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/discord.svg" />
 </a>
 <br/><br/>
 
