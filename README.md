@@ -14,12 +14,7 @@
 <br/><br/>
 
 ### What i know?:  :rocket:
-|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/cpp.png" width=60> | 
-<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/csharp.png" width=60> | 
-<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/c.webp" width=60> | 
-<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | 
-<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/php.svg" width=60> | 
-<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/java.png" width=60> |
+|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/csharp.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/c.webp" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/php.svg" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/java.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
