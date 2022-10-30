@@ -20,7 +20,9 @@
 
 
 ### Tools: :hammer:
-|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/vs.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/vsc.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/github.svg" width=60> |
+|<img 
+src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/vs.png" width=60> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/b4d5a3be04c99ec0a309ac9e0d0b21207c237c7d/images/svg/visualstudiocode.svg" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | <img
+src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" width=60> |
 |:---:|:---:|:---:|:---:|
 
 ### Contacts: :penguin:
