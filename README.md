@@ -1,6 +1,7 @@
 
 ## Hi Dear Samurai, 
-<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/meow.png" /></p>
+
+<img img align="center" src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/meow.png" /></p>
 <br/><br/>
 
 <p align="center">
