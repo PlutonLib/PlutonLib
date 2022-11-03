@@ -4,7 +4,7 @@
 <p align="center">
   <br><br>
   <samp>
-    I'm Pluton. I am currently student in University of the Gazi. Coding C++, C# and Java for now. Learning Network and Forensic IT. I am a Turkish Translator at Hypixel. <a href="https://hypixel.net/"> Hypixel </a>. My Crowdin account <a href="https://crowdin.com/profile/PlutonLib-"> Crowdin PlutonLib Profile.
+    I'm Pluton. I am currently Engineer student in University of the Gazi. Coding C++, C# and Java for now. Learning Network and Forensic IT. I am a Turkish Translator at Hypixel. <a href="https://hypixel.net/"> Hypixel </a>. My Crowdin account <a href="https://crowdin.com/profile/PlutonLib-"> Crowdin PlutonLib Profile.
     </a>
   </samp>
 </p>
