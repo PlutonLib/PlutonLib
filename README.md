@@ -13,15 +13,6 @@
 <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/Eyes.gif" width=600 /></p>
 <br/><br/>
 
-### What i know?:  :rocket:
-|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/csharp.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/c.webp" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/java.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|
-
-
-### Tools: :hammer:
-|<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/vs.png" width=60> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/b4d5a3be04c99ec0a309ac9e0d0b21207c237c7d/images/svg/visualstudiocode.svg" width=60> | <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/qt.png" width=60> | <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/github.svg" width=60> |
-|:---:|:---:|:---:|:---:|
-
 ### Contacts: :penguin:
 <a href="https://twitch.tv/plutonlib">
   <img align="left" alt="plutonlib Twitch" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitch.svg" />
@@ -45,15 +36,6 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/Dodge.gif" width=600 /></p>
-<br/><br/>
-
-
-<div align="center">
-<a href="https://github.com/plutonlib"><img src="https://github-readme-stats.vercel.app/api?username=plutonlib&theme=midnight-purple&show_icons=true" /><!-- wi*quL3fcV --><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plutonlib&theme=midnight-purple&show_icons=true" /></a>
-
-
-<p align="center">
-<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=2m0k6loyp16jcnmyudz3s7o88&cover_image=true&theme=default" /></p>
 <br/><br/>
 
 
