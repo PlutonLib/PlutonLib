@@ -34,10 +34,5 @@
 </a>
 <br/><br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/plutonlib/plutonlib/master/img/Dodge.gif" width=600 /></p>
-<br/><br/>
-
-
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=plutonlib/plutonlib) -->
 ![ViewCount](https://views.whatilearened.today/views/github/plutonlib/views.svg)
