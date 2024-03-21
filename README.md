@@ -5,7 +5,7 @@
   <br><br>
   <samp>
     I'm Pluton. I am currently IT student in Gazi University. 
-Interested in Mobile Pentesting, Web App Pentesting and Bug Bounty.
+Interested in Mobile Pentesting, Web App Pentesting and Bug Bounty. Learning Ruby.
   </samp>
 </p>
 
